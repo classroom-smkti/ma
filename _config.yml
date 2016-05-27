@@ -1,0 +1,30 @@
+title: Mikrotik Academy
+description: Routing the World.
+
+url: http://ma.smk-ti.sch.id
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: redcarpet
+highlighter: pygments
+gems: [jekyll-paginate]
+paginate: 5
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: Materi MTCNA
+   url: /outline-mtcna
+ - title: About
+   url: /about
+ - title: Contact
+   url: /contact
+
+social:
+   github: classroom-smkti
+   twitter: saifulindo
+   facebook: Smkti.PN
+   email: smktipn@yahoo.co.id
+
+google_analytics: ""
