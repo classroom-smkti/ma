@@ -25,4 +25,5 @@ date:   2016-10-05
 	<li>M. Ashar Roziqin 1610NA122</li>
 	<li>Mochammad Arifin 1610NA123</li>
 </ul>
+Yang telah menyandang sertifikasi Mikrotik Certified Networking Accosiate(MTCNA) dan sukses selalu. bagi yang belum lulus terus belajar hingga mendapat sertifikasi.
 </p>
